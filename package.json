@@ -1,0 +1,12 @@
+{
+  "name": "Spotify MOD APK",
+  "version": "1.0.0",
+  "description": "Spotify APK Download (Unlimited Everything).",
+  "main": "index.js",
+  "scripts": {
+    "start": "open index.html"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {}
+}
